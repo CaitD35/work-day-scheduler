@@ -10,3 +10,6 @@ When the user clicks on a selected timeblock they can enter an event and save it
 
 ![Workday scheduler website.](./assets/images/05-third-party-apis-homework-demo.gif) 
 
+https://github.com/CaitD35/work-day-scheduler.git
+
+https://caitd35.github.io/work-day-scheduler/ 
